@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="6cm" height="6cm" viewBox="0 0 145 84" xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"><title>Image of </title>
+<line x1="97" y1="20" x2="71" y2="34" stroke-width="2" stroke="black"/>
+<line x1="45" y1="20" x2="71" y2="34" stroke-width="2" stroke="black"/>
+<line x1="73" y1="64" x2="73" y2="34" stroke-width="2" stroke="black"/>
+<line x1="69" y1="64" x2="69" y2="34" stroke-width="2" stroke="black"/>
+<rect x="90" y="13" width="28" height="15" fill="white" stroke="none" /><text x="90" y="27" font-family="Verdana" font-size="18" font-weight="bold" fill="red">
+O-</text><rect x="38" y="13" width="28" height="15" fill="white" stroke="none" /><text x="38" y="27" font-family="Verdana" font-size="18" font-weight="bold" fill="red">
+O-</text><rect x="64" y="57" width="15" height="15" fill="white" stroke="none" /><text x="64" y="71" font-family="Verdana" font-size="18" font-weight="bold" fill="red">
+O</text><rect x="116" y="27" width="28" height="15" fill="white" stroke="none" /><text x="116" y="41" font-family="Verdana" font-size="18" font-weight="bold" fill="grey">
+Li+</text><rect x="13" y="27" width="28" height="15" fill="white" stroke="none" /><text x="13" y="41" font-family="Verdana" font-size="18" font-weight="bold" fill="grey">
+Li+</text></svg>
